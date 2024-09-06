@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:latest
 frooodle/s-pdf:latest
 emby/embyserver:latest
+yovter/hmxy:20.04
